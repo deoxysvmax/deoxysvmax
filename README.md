@@ -5,9 +5,7 @@
 
 ## 🙋♂️ À propos de moi
 
-- 💻 Jeune Crack
-
-- ⚡ Préfere les jeux d'aventures en coopération.
+- 💻 Jeune crackito 
 
 ## 🚀 Langages et outils
 
