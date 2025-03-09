@@ -36,7 +36,7 @@
 ## 📊 Mes statistiques Github
 
   <br/>
-    <a href="https://github.com/toadrouge/github-readme-stats"><img alt="Statistiques Github de Deoxys" src="https://github-readme-stats.vercel.app/api?username=toadrouge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/toadrouge/github-readme-stats"><img alt="Statistiques Github de Toad" src="https://github-readme-stats.vercel.app/api?username=toadrouge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/toadrouge/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toadrouge&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&bar_color=007bff" /></a>
   <br/>
   <b>Note:</b> Les principales langages ne sont qu'une mesure dans laquelle se composent mes créations et ne reflètent pas l'expérience ou le niveau de compétence. Après avoir vu tous les langages et outils ci-dessus, vous pensez que je suis calé dans tout mais je ne fais que m'intéresser et je sais les utiliser quand il le faut =).
