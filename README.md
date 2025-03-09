@@ -1,4 +1,4 @@
-<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis Deoxys</h1>
+<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> je suis Toad</h1>
 <h3 align="center">Passionné par les jeux video et la programmation.</h3>
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
@@ -29,15 +29,15 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=deoxysvmax&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=toadrouge&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 Mes statistiques Github
 
   <br/>
-    <a href="https://github.com/deoxysvmax/github-readme-stats"><img alt="Statistiques Github de Deoxys" src="https://github-readme-stats.vercel.app/api?username=deoxysvmax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/deoxysvmax/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deoxysvmax&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&bar_color=007bff" /></a>
+    <a href="https://github.com/toadrouge/github-readme-stats"><img alt="Statistiques Github de Deoxys" src="https://github-readme-stats.vercel.app/api?username=toadrouge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/toadrouge/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toadrouge&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&bar_color=007bff" /></a>
   <br/>
   <b>Note:</b> Les principales langages ne sont qu'une mesure dans laquelle se composent mes créations et ne reflètent pas l'expérience ou le niveau de compétence. Après avoir vu tous les langages et outils ci-dessus, vous pensez que je suis calé dans tout mais je ne fais que m'intéresser et je sais les utiliser quand il le faut =).
 
